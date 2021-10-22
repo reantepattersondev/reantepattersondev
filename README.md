@@ -20,7 +20,7 @@ I take great care in the experience, architecture, and code quality of the thing
 <code><img height="20" src="https://cdn.svgporn.com/logos/sass.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/php.svg"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/python.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/git-icon.svg"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/php.svg"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/python.svg"></code>
