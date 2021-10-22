@@ -1,7 +1,12 @@
 ### Hi there 👋
 <br />
 
-I am a passionate front-end software engineer who specializes in many technologies varying from React, Angular, Vue, CSS, Tailwind. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+A highly motivated, versatile, and skilled Fullstack developer, I have demonstrated expertise in web application
+development.
+Specializes in front-end JavaScript with popular frameworks and libraries like React/Next js,Vue,Angular and
+TypeScript.
+I have deep experience includes Node.js and Express, PHP/Laravel, Python/Django.
+I take great care in the experience, architecture, and code quality of the things I build.
 
 **languages and tools:**  
 
